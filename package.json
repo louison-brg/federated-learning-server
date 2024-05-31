@@ -1,0 +1,17 @@
+{
+  "name": "federated-learning-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.2.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
